@@ -1,0 +1,3 @@
+# Minor-Project
+removed  price, address column from the original csv file( august wali)
+and made a new csv called edit...
